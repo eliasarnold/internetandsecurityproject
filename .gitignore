@@ -1,0 +1,5 @@
+
+src \(copy\)/
+./src/__pycache__
+
+\.idea/
